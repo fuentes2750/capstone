@@ -1,1 +1,1 @@
-The images in this folder come from code step#6. Including them individually as the code might not display them properly without running it. The images are named with the title they have on the code for ease of tracking. 
+The images in this folder come from code step#6. Including them individually as the code might not display them properly without running it. The images are named with the title they have on the code for ease of tracking them within the code. 
