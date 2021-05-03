@@ -1,0 +1,1 @@
+The images in this folder come from code step#6. Including them individually as the code might not display them properly without running it.
